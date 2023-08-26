@@ -1,0 +1,18 @@
+ul{
+    width: 200px;
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+li{
+    width: 50px;
+    height: 50px;
+    border: solid #61b5d1;
+    background-color: rgb(97, 181, 209);
+    margin: 5px;
+    font-size: 40px;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}

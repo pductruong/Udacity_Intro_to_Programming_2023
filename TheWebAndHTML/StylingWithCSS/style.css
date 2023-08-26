@@ -1,1 +1,6 @@
 p {color:purple; font-size:24;}
+em {
+    font-weight: bold;
+    color: red;
+    font-style: normal;
+  }

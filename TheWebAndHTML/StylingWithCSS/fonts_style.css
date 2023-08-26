@@ -1,0 +1,11 @@
+/* p{
+    font-size: 48px;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+} */
+
+p {
+    font: italic small-caps bold 48px "Courier New"
+}
